@@ -4,7 +4,7 @@
         // var fond_bod=document.getElementById("fond_body");
         var coleur=prompt("Votre couleur péférée");
             
-            document.getElementById("fond_body").style.backgroundColor=coleur;
+            document.getElementById("fond_text").style.backgroundColor=coleur;
           
     }
 
