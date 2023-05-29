@@ -1,7 +1,7 @@
 
     
     function Hello(){
-        // var fond_bod=document.getElementById("fond_body");
+        // var fond_bod=document.getElementById("fond_text");
         var coleur=prompt("Votre couleur péférée");
             
             document.getElementById("fond_text").style.backgroundColor=coleur;
